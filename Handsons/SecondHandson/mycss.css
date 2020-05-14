@@ -1,0 +1,23 @@
+#main
+    {
+      background-color:#6DBB98 ;
+    }
+    #sidebar
+    {
+      background-color:#D0ABF1;
+    }
+
+    .material-icons 
+    {
+      vertical-align: middle;
+      font-size: 18px;
+    }
+    .list-group
+    {
+      display:inline-block;
+      max-width: 400px;
+    }
+    .list-head
+    {
+      color:purple;
+    }

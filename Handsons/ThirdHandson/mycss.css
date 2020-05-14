@@ -1,0 +1,46 @@
+
+
+    #main
+    {
+      background-color:#6DBB98 ;
+    }
+    #sidebar
+    {
+      background-color:#D0ABF1;
+    }
+
+    .material-icons 
+    {
+      vertical-align: middle;
+      font-size: 18px;
+    }
+    .md-2
+    {
+      vertical-align: middle;
+      font-size: 10px;
+    }
+     .md-2
+    {
+      vertical-align: middle;
+      font-size: 10px;
+    }
+    .rating
+    {
+      font-size: 10px;
+    }
+    .alert
+    {
+      color:red;
+    }
+
+    .fav
+    {
+      vertical-align: middle;
+      font-size: 30px;
+    }
+    .fav:hover
+    {
+      vertical-align: middle;
+      font-size: 30px;
+        color:red;
+    }
